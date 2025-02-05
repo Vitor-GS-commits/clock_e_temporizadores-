@@ -1,2 +1,2 @@
-# clock_e_temporizadores-
-Repositorio para utilização de clock e temporizadores no microcontrolador RP2040
+📁 Clock e Temporizadores
+Repositório contendo projetos para utilização de clock e temporizadores no microcontrolador Raspberry Pi Pico W utilizando o Pico SDK.
